@@ -1,0 +1,13 @@
+torchvision==0.15.2  # Version compatible with PyTorch 2.1.0
+ninja==1.11.1  # Build utility for PyTorch
+cython==0.29.33  # Cython for compiling C extensions
+tqdm==4.65.0  # Progress bar for loops
+scikit-image==0.21.0  # Image processing library
+openai==0.28  # OpenAI API client (for text generation or translation)
+torch==2.1.0+cu118  # Ensure this matches your CUDA version (e.g., cu118 for CUDA 11.8)
+opencv-python==4.8.0.74  # OpenCV for image processing
+numpy==1.24.2  # NumPy for array operations
+Pillow==9.6.1  # Pillow for image manipulation
+matplotlib==3.8.0  # Matplotlib for plotting (if needed)
+yacs==0.1.8  # Configuration management library
+translategpt==0.2.0  # GPT-based translation library (verify if this exists or is the correct package)
