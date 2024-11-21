@@ -53,3 +53,7 @@ python main.py --config_file path_to_config_file --image_dir path_to_input_image
 ```
 python main.py --config_file charnet/config.py --image_dir data/images --results_dir results/
 ```
+## Future Plans
+While the project is functional, there are several areas for improvement. The text recognition and translation features can be further enhanced for accuracy and performance. Additionally, integrating a more advanced model for object classification and segmentation will provide better context for translations.
+
+Looking ahead, the app can be expanded to web and mobile platforms, allowing for seamless camera access and a Python backend to handle processing. These updates will improve user experience and broaden the app's accessibility.
