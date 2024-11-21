@@ -2,6 +2,11 @@
 This project performs text recognition and translation on images by leveraging the CharNet model for scene text detection, OpenAI's ChatGPT for translating recognized text, and OpenCV/Pillow for image manipulation. The process involves extracting text from images, translating it into a target language (default: Polish), and rendering the translated text onto the image. This project is a simple after-hours play, done mostly in one sitting, making it an enjoyable and straightforward way to experiment with text recognition and language translation on images.
 
 ## Early Test Results
+![Text Recognition and Translation with CharNet and ChatGPT (1)](https://github.com/user-attachments/assets/9052338c-02da-4f50-9112-1e4e421cd41c)
+![Projekt bez nazwy](https://github.com/user-attachments/assets/3176de0a-45a9-45e7-92dd-a1a900e76309)
+![Projekt bez nazwy (1)](https://github.com/user-attachments/assets/bbf6eea8-461a-481f-a680-8322c0fcf90b)
+![Projekt bez nazwy (2)](https://github.com/user-attachments/assets/94b0efd0-60b1-41ca-af8e-f8194ff75e0d)
+![Text Recognition and Translation with CharNet and ChatGPT](https://github.com/user-attachments/assets/05b76877-1034-4bfe-b512-0480073ca135)
 
 
 ## Features
